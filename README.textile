@@ -2,17 +2,18 @@
 
 this gateway is a proccessing application - first used for the workshop "internet of the real things" http://2010.playaround.cc 
 
-!imageurl!:http://2010.playaround.cc/show_image.php?id=235&scalesize=0
+!imageurl!:http://2010.playaround.cc/show_image.php?id=235&scalesize=0 
 
-just copy the folder PLURKgateway04 AS IT IS over to your processing SKETCH folder
-restart processing 
-in // file / sketchbook  you will see the sketch PLURKgateway
-open the config pane and fill in your credidentials <YOUR_LOGIN> <YOUR_PASSWORD>
-start the gateway, it will connect to plurk 
-you get every PLURK as OSC message on port 9000
-you can send new PLURKS on port 8000 
+* just copy the folder PLURKgateway04 AS IT IS over to your processing SKETCH folder
+* restart processing 
+* in // file / sketchbook  you will see the sketch PLURKgateway
+* open the config pane and fill in your credidentials \<YOUR_LOGIN\> \<YOUR_PASSWORD\>
+* start the gateway, it will connect to plurk 
+* you get every PLURK as OSC message on port 9000
+* you can send new PLURKS on port 8000 
 
 ;o)
 have fun be patient 
 and enjoy
 kiilo
+
